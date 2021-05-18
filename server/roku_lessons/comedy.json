@@ -6,7 +6,7 @@
             "id": "C123",
             "title": "Comedy One",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy1.jpg",
+            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy1.jpg?raw=true",
             "url":"https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
             "streamformat":"hls"
         },
@@ -14,7 +14,7 @@
             "id": "C456",
             "title": "Comedy Two",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy2.jpg",
+            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy2.jpg?raw=true",
             "url":"https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
             "streamformat":"hls"
         },
@@ -22,7 +22,7 @@
             "id": "C789",
             "title": "Comedy Three",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy3.jpg",
+            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy3.jpg?raw=true",
             "url":"https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
             "streamformat":"hls"
         },
@@ -30,7 +30,7 @@
             "id": "C012",
             "title": "Comedy Four",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy4.jpg",
+            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy4.jpg?raw=true",
             "url":"https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
             "streamformat":"hls"
         },
@@ -38,7 +38,7 @@
             "id": "C345",
             "title": "Comedy Five",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy5.jpg",
+            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy5.jpg?raw=true",
             "url":"https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
             "streamformat":"hls"
         },
@@ -46,7 +46,7 @@
             "id": "C678",
             "title": "Comedy Six",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy6.jpg",
+            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy6.jpg?raw=true",
             "url":"https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
             "streamformat":"hls"
         },
@@ -54,7 +54,7 @@
             "id": "C901",
             "title": "Comedy Seven",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie velit sit amet rhoncus sodales. Suspendisse dignissim maximus mattis. Nullam ornare consectetur velit, ac pretium turpis. Nullam consequat ornare tincidunt",
-            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy7.jpg",
+            "thumbnail": "https://github.com/joannasaerom/roku-learnin/blob/master/server/roku_lessons/images/thumbnail-comedy7.jpg?raw=true",
             "url":"https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
             "streamformat":"hls"
         }
